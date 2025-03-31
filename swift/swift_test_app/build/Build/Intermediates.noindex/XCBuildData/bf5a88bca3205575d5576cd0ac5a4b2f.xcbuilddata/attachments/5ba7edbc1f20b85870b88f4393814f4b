@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/swift_test_app-master.dia",
+    "emit-module-dependencies" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/swift_test_app-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/swift_test_app-master-emit-module.dia",
+    "swift-dependencies" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/swift_test_app-master.swiftdeps"
+  },
+  "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/gutswright/test_projects/swift/swift_test_app/swift_test_app/ContentView.swift" : {
+    "const-values" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/gutswright/test_projects/swift/swift_test_app/swift_test_app/Item.swift" : {
+    "const-values" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/Item.dia",
+    "index-unit-output-path" : "/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/Item.swiftdeps",
+    "swiftmodule" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/Item~partial.swiftmodule"
+  },
+  "/Users/gutswright/test_projects/swift/swift_test_app/swift_test_app/swift_test_appApp.swift" : {
+    "const-values" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/swift_test_appApp.swiftconstvalues",
+    "dependencies" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/swift_test_appApp.d",
+    "diagnostics" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/swift_test_appApp.dia",
+    "index-unit-output-path" : "/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/swift_test_appApp.o",
+    "llvm-bc" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/swift_test_appApp.bc",
+    "object" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/swift_test_appApp.o",
+    "swift-dependencies" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/swift_test_appApp.swiftdeps",
+    "swiftmodule" : "/Users/gutswright/test_projects/swift/swift_test_app/build/Build/Intermediates.noindex/swift_test_app.build/Debug-iphonesimulator/swift_test_app.build/Objects-normal/arm64/swift_test_appApp~partial.swiftmodule"
+  }
+}

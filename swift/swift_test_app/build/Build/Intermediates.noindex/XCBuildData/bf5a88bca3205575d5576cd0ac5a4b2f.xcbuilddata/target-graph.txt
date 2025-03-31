@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'swift_test_app' in project 'swift_test_app' (no dependencies)

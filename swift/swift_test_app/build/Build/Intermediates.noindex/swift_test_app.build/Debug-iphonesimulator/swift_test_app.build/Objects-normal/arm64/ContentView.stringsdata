@@ -1,0 +1,32 @@
+{
+  "source": "/Users/gutswright/test_projects/swift/swift_test_app/swift_test_app/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Item at lols %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Adds an Item",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select an item",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 38
+        }
+      }
+    ]
+  },
+  "version": 1
+}
